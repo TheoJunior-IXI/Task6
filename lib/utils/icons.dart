@@ -1,0 +1,1 @@
+const String cubit = 'lib/images/logo.webp';
